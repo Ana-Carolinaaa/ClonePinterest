@@ -12,15 +12,12 @@ nav{
     align-items: center ;
 }
 
-div.sticky {
-    position: -webkit-sticky;
+header {
     position: sticky;
     top: 0;
-    padding: 5px;
-    background-color: white;
-    border: 2px solid #4caf50;
+    background-color: white ; 
 }
-  
+
 nav img{
     width: 30px;
     height: 30px;
